@@ -29,7 +29,3 @@
 <p align = "center">
 <img width="1069" alt="스크린샷 2021-02-02 오후 8 53 19" src="https://user-images.githubusercontent.com/64361457/106597346-a22a1280-6599-11eb-9624-28f3b9185368.png">
 <br><br><br>
-
-<h3> 5. 플레이스토어 </h3>
-<p align = "center">
-<img width="1792" alt="스크린샷 2021-02-02 오후 8 43 27" src="https://user-images.githubusercontent.com/64361457/106597324-9c343180-6599-11eb-81ae-d652c85320fe.png">
